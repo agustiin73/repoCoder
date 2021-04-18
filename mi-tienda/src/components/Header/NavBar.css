@@ -1,6 +1,6 @@
-.navBarStyle{
-    width: 80%;
+.navBar{
+    margin: 10px 20px;
     display: flex;
     justify-content: center;
-
+    background-color: #17202A;
 }

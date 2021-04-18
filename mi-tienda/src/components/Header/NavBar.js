@@ -3,7 +3,7 @@ import NavButton  from './NavButton.js'
 import './NavBar.css'
 const NavBar = ()=>{
     return(
-        <div className='navBarStyle'>
+        <div className='navBar'>
                 <NavButton text={'Home'}/>
                 <NavButton text={'Marcas'}/>
                 <NavButton text={'Sucursales'}/>
