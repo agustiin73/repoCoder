@@ -4,7 +4,7 @@ const ItemListContainer = (props)=>{
     return(
     <div className='itemListStyle'>
         <p className='textStyle'>
-            Aqui van a estar los productos a la venta
+            {props.greeting}
         </p>
     </div>
     )

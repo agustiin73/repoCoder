@@ -1,0 +1,24 @@
+.ItemCountArea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: beige;
+    border-radius: 10px;
+    margin: 30%;
+}
+
+.ItemCountArea__Button{
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    border: none;
+}
+
+.ItemCountArea__Count{
+    background-color: beige;
+    margin-right: 20%;
+    font-weight: bold;
+    font-size: x-large;
+}
