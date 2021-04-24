@@ -4,6 +4,11 @@
     
 }
 
+.header h1{
+    display: flex;
+    justify-content: center;
+}
+
 .header{
     text-align: center;
     color:white;

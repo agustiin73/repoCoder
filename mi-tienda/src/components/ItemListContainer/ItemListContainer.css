@@ -1,9 +1,31 @@
+.Itemcontainer{
+    display: flex;
+    justify-content: center;
+}
+.ItemListContainer{
+    background-color: greenyellow;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin: 15px 30px;
+}
+
+.ItemListTitle{
+    background-color: indigo;
+    text-align: center;
+    color: whitesmoke; 
+    margin: 15px 30px;
+
+}
+
+
 .textStyle{
     margin: 30px 50px;
-    background-color:beige;
+    background-color:aqua;
     font-size: x-large;
     height: 300px;
     border-radius: 10px;
     text-align: center;
-
+    display:  flex;
 }

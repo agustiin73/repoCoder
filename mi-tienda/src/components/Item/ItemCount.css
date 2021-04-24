@@ -1,0 +1,31 @@
+.ItemCountArea{
+    display: flex;
+    justify-content: flex-start;
+    background-color: white;
+    border-radius: 10px;
+    margin: 2px;
+   
+}
+
+.ItemCountArea__AddButton{
+    background-color: rgb(74, 207, 33);
+    border-radius: 8px;
+    margin: 5px;
+    padding: 5px;
+    border: none;
+}
+
+.ItemCountArea__QuitButton{
+    background-color: white;
+    font-style: inherit;
+    border: none;
+    text-decoration: underline;
+    color: gray;
+}
+
+.ItemCountArea__Count{
+    background-color:white;
+    margin: 5px;
+
+    font-size: medium;
+}
