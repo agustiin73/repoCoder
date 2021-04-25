@@ -2,14 +2,7 @@
     display: flex;
     justify-content: center;
 }
-.ItemListContainer{
-    background-color: greenyellow;
-    color: white;
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    margin: 15px 30px;
-}
+
 
 .ItemListTitle{
     background-color: indigo;
