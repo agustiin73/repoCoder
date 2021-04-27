@@ -4,11 +4,11 @@ import './NavBar.css'
 const NavBar = ()=>{
     return(
         <div className='navBar'>
-                <NavButton text={'Home'}/>
+                <NavButton text={'Productos'}/>
                 <NavButton text={'Marcas'}/>
                 <NavButton text={'Sucursales'}/>
                 <NavButton text={'Contacto'}/>
-                <NavButton text={'Nosotros'}/>
+
         </div>
            
  

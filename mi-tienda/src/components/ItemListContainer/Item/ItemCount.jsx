@@ -23,11 +23,9 @@ class Contador extends Component{
     render(){
         return(
             <div className='ItemCountArea'>
-  
-                    <button onClick={this.agregar} className='ItemCountArea__AddButton'>Agregar</button>
+                    <button onClick={this.eliminar} className='ItemCountArea__QuitButton'>Quitar</button>
                     <p className='ItemCountArea__Count'>{this.state.count}</p>
-                    <button onClick={this.eliminar} className='ItemCountArea__QuitButton'>Quitar</button>        
-
+                    <button onClick={this.agregar} className='ItemCountArea__AddButton'>Agregar</button>
               
             </div>
         )
