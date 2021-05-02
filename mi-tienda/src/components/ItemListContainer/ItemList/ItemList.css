@@ -1,9 +1,10 @@
 
 .ItemList{
-    background-color: greenyellow;
+    background-color: rgb(226, 78, 78);
     color: white;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     margin: 0px 30px;
+    width: 80%;
 }

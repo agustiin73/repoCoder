@@ -1,0 +1,18 @@
+.carritoFondo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: #343a40;
+    width: 50px;
+    height: 50px;
+}
+
+.carritoEstilo{
+    height: 60%;
+    width: 60%;
+}
+
+.carritoFondo:hover{
+    background-color: #23272b;
+}
